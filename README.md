@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 ## React JS, NextJS, Tailwind CSS, Framer Motion, Leaflet JS, Swiper JS.
@@ -21,3 +22,6 @@ yarn dev
 ```bash
 yarn build
 ```
+=======
+# Laminados
+>>>>>>> 5a38929a8817c9f47c8d1dcfa55f052e0414f0ba
