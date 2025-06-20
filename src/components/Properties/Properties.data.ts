@@ -5,7 +5,7 @@ export const dataProperties = [
     price: 200000,
     bedrooms: 3,
     bathroom: 1,
-    image: "propertie1.jpeg",
+    image: "propertie17.jpeg",
     star: 4.5,
     meters: 430,
     description:
@@ -17,7 +17,7 @@ export const dataProperties = [
     price: 150000,
     bedrooms: 2,
     bathroom: 2,
-    image: "propertie2.jpeg",
+    image: "propertie18.jpeg",
     star: 4,
     meters: 230,
     description:
@@ -29,7 +29,7 @@ export const dataProperties = [
     price: 35.0,
     bedrooms: 5,
     bathroom: 2,
-    image: "propertie3.jpeg",
+    image: "propertie19.png",
     star: 5,
     meters: 90,
     description:
@@ -41,7 +41,7 @@ export const dataProperties = [
     price: 200000,
     bedrooms: 3,
     bathroom: 1,
-    image: "propertie4.jpeg",
+    image: "propertie20.jpeg",
     star: 4.2,
     meters: 120,
     description:
@@ -53,12 +53,13 @@ export const dataProperties = [
     price: 200000,
     bedrooms: 3,
     bathroom: 1,
-    image: "propertie5.jpeg",
+    image: "propertie21.jpeg",
     star: 4.1,
     meters: 87,
     description:
       "En el corazón de la encantadora ciudad de Cuenca, te presentamos una oportunidad única de adquirir un espectacular piso de 75 metros cuadrados que combina comodidad, elegancia y un entorno natural inigualable. Esta vivienda, ubicada en una zona tranquila y bien comunicada, es un refugio de paz y belleza que estamos seguros te enamorará.. . Al entrar a este acogedor hogar, te recibirá un amplio recibidor que te conducirá a un baño completo con bañera, perfecto para relajarte después de un largo día. Continuando, te adentrarás en un generoso salón comedor, que se fusiona con la cocina a través de puertas correderas. ",
   },
+  /*
   {
     id: 6,
     location: "Cuenca, Valencia, ES",
@@ -190,5 +191,5 @@ export const dataProperties = [
     meters: 290,
     description:
       "En el corazón de la encantadora ciudad de Cuenca, te presentamos una oportunidad única de adquirir un espectacular piso de 75 metros cuadrados que combina comodidad, elegancia y un entorno natural inigualable. Esta vivienda, ubicada en una zona tranquila y bien comunicada, es un refugio de paz y belleza que estamos seguros te enamorará.. . Al entrar a este acogedor hogar, te recibirá un amplio recibidor que te conducirá a un baño completo con bañera, perfecto para relajarte después de un largo día. Continuando, te adentrarás en un generoso salón comedor, que se fusiona con la cocina a través de puertas correderas. ",
-  },
+  },*/
 ];

@@ -20,10 +20,10 @@ export const dataHeader: HeaderData[] = [
     id: 4,
     name: "Localización",
     link: "#location",
-  },
+  },/*
   {
     id: 5,
     name: "Propiedades",
     link: "#propierties",
-  },
+  },*/
 ];
