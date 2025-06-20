@@ -26,8 +26,6 @@ export function Properties() {
                             </div>
                         </div>
                     </Link>
-                    
-                   
                 ))}
             </div>
         </Transition>
