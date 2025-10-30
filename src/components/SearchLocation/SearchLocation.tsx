@@ -23,7 +23,7 @@ export function SearchLocation() {
             }
 
             {isOpen && (
-                <div className="absolute top-[70px] bg-white <-50 p-4 rounded-lg shadow-light w-[230px] left-0">
+                <div className="absolute top-[70px] bg-white z-50 p-4 rounded-lg shadow-light w-[230px] left-0">
                     <p>Huichapan HGO.</p>
                 </div>
             )}

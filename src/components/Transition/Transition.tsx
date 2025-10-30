@@ -17,6 +17,7 @@ export function Transition(props: TransitionProps) {
             mainControls.start("visible")
             slidecontrols.start("visible")
         }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
     },[isInview])
 
 

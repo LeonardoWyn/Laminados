@@ -11,7 +11,7 @@ export const fadeIn =()=>{
                 duration:0.8,
                 delay: 0.8,
                 ease:[0.25],
-            }
+            },
         },
         visible:{
             y:0,
@@ -22,7 +22,7 @@ export const fadeIn =()=>{
                 duration:0.7,
                 delay: 0.7,
                 ease:[0.25,0.25,0.25,0.25],
-            }
-        }
+            },
+        },
     };
 };
