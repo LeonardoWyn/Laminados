@@ -214,7 +214,7 @@ export const dataProperties = [
     star: 4.5,
     meters: "Medida",
     meters1: "Lingote",
-  },
+  },/*
   {
     id: 23,
     location: "CAFE DOTHI",
@@ -224,13 +224,13 @@ export const dataProperties = [
     star: 4.5,
     meters: "Medida",
     meters1: "Lingote",
-  },
+  },*/
   {
     id: 24,
     location: "CAFE ROJIZO",
     price: 2000,
     price1: 3300,
-    image: "propertie17.jpeg",
+    image: "Rojo Galindo.jpg",
     star: 4.5,
     meters: "Medida",
     meters1: "Lingote",
@@ -240,7 +240,7 @@ export const dataProperties = [
     location: "TABACO",
     price: 2000,
     price1: 3300,
-    image: "propertie17.jpeg",
+    image: "Bronce.jpg",
     star: 4.5,
     meters: "Medida",
     meters1: "Lingote",
