@@ -1,38 +1,38 @@
 export const sliderDataImages = [
   {
     id: 1,
-    urlImage: "house1.jpg",
+    urlImage: "1.JPG",
   },
   {
     id: 2,
-    urlImage: "house2.jpg",
+    urlImage: "2.JPG",
   },
   {
     id: 3,
-    urlImage: "house3.jpg",
+    urlImage: "3.JPG",
   },
   {
     id: 4,
-    urlImage: "house4.jpg",
+    urlImage: "4.JPG",
   },
   {
     id: 5,
-    urlImage: "house5.jpg",
+    urlImage: "5.JPG",
   },
   {
     id: 6,
-    urlImage: "house6.jpg",
+    urlImage: "6.JPG",
   },
   {
     id: 7,
-    urlImage: "house7.jpg",
+    urlImage: "7.JPG",
   },
   {
     id: 8,
-    urlImage: "house8.jpg",
+    urlImage: "8.JPG",
   },
   {
     id: 9,
-    urlImage: "house9.jpg",
+    urlImage: "9.JPG",
   },
 ];

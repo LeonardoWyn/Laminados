@@ -22,7 +22,7 @@ export function Slider() {
         >
             {sliderDataImages.map(({id,urlImage})=>(
                    <SwiperSlide key={id}>
-                        <Image src={`/assets/houses/${urlImage}`} alt="House" width={200} height={700} className="w-auto rounded-xl" />
+                        <Image src={`/assets/houses/${urlImage}`} alt="House" width={500} height={700} className="w-auto rounded-xl" />
                    </SwiperSlide> 
 
             ))}
