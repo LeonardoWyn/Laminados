@@ -18,7 +18,7 @@ export default function Page() {
             <TransitionPage/>
             <Header/>
             {filteredPage ? (
-                <Property houses={filteredPage}/>
+                <Property house={filteredPage}/>
             ):(
                 <Error404/>
             )}
